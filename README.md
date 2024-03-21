@@ -1,1 +1,2 @@
-# JavaScript-common-problem
+# JavaScript-problem-solving
+#
